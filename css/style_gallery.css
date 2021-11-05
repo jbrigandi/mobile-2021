@@ -19,6 +19,13 @@ header p {
 
 }
 
+div h2{
+    font-size: 22px;
+    text-align: center;
+    color: black;
+    line-height: 1.75;
+    
+}
 body {
     background-color: white;
     background-position: center;
